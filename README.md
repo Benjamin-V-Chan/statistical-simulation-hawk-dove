@@ -1,7 +1,5 @@
 # statistical-simulation-hawk-dove
 
-# Hawk-Dove Game Simulation
-
 ## Project Overview
 The Hawk-Dove game is a mathematical model used in evolutionary biology and game theory to study conflict and resource competition among individuals. The game explores two strategies:
 
